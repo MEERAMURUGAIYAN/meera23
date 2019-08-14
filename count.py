@@ -1,4 +1,4 @@
-#a   
+#m   
 s12=input()
 s12=s12.split()
 s12[0]=s12[0].capitalize()
