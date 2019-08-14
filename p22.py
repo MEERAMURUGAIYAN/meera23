@@ -1,5 +1,5 @@
-#m
-p,q=map(int,input().split())
+#o
+m,q=map(int,input().split())
 y=min(p,q)
 x=[]
 for i in range(1,y+1):
